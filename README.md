@@ -78,6 +78,8 @@ When finished, open ADUC and observe the accounts in the appropriate OU　(_EMPL
 
 ![image](https://github.com/user-attachments/assets/bd982e45-5ede-4208-82ad-029238d4b615)
 
+![image](https://github.com/user-attachments/assets/713279fa-9096-40b1-baff-2db4c62a42cf)
+
 <p>
 attempt to log into Client-1 with one of the accounts (take note of the password in the script)
 </p>
